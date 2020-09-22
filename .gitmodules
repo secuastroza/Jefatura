@@ -1,2 +1,3 @@
 [submodule "themes/terminal"]
 path=themes/terminal
+url="https://github.com/stroupaloop/hugo-theme-terminal"
