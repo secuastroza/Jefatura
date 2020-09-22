@@ -1,4 +1,4 @@
-baseurl = "/posts/myfirst/"
+baseurl = "/posts/myfirst"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
