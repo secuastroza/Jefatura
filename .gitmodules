@@ -1,2 +1,2 @@
-[suhmodule "themes/terminal"]
+[submodule "themes/terminal"]
 path=themes/terminal
